@@ -1,0 +1,55 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(6,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(7,9): error C2065: 'mov': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(7,13): error C2146: syntax error: missing ';' before identifier 'EDX'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(7,13): error C2065: 'EDX': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(8,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(8,9): error C2065: 'mov': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(8,13): error C2146: syntax error: missing ';' before identifier 'ECX'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(8,13): error C2065: 'ECX': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(9,9): error C2146: syntax error: missing ';' before identifier 'lea'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(9,9): error C2065: 'lea': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(9,13): error C2146: syntax error: missing ';' before identifier 'EBX'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(9,13): error C2065: 'EBX': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(11,9): error C2146: syntax error: missing ';' before identifier 'calc_factorial'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(12,9): error C2065: 'mov': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(12,13): error C2146: syntax error: missing ';' before identifier 'EAX'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(12,13): error C2065: 'EAX': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(13,13): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(13,13): error C2065: 'mov': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(13,17): error C2146: syntax error: missing ';' before identifier 'ESI'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(13,17): error C2065: 'ESI': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(13,22): error C2065: 'EDX': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(15,13): error C2146: syntax error: missing ';' before identifier 'factorial_loop'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(16,9): error C2065: 'mul': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(16,13): error C2146: syntax error: missing ';' before identifier 'ESI'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(16,13): error C2065: 'ESI': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(17,13): error C2146: syntax error: missing ';' before identifier 'dec'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(17,13): error C2065: 'dec': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(17,17): error C2146: syntax error: missing ';' before identifier 'ESI'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(17,17): error C2065: 'ESI': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(18,13): error C2146: syntax error: missing ';' before identifier 'jnz'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(18,13): error C2065: 'jnz': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(18,17): error C2146: syntax error: missing ';' before identifier 'factorial_loop'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(18,17): error C2065: 'factorial_loop': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(20,13): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(20,13): error C2065: 'mov': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(20,17): error C2146: syntax error: missing ';' before identifier 'dword'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(20,17): error C2065: 'dword': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(20,23): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(20,23): error C2065: 'ptr': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(20,27): error C2065: 'EBX': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(20,33): error C2065: 'EAX': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(21,13): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(21,13): error C2065: 'add': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(21,17): error C2146: syntax error: missing ';' before identifier 'EBX'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(21,17): error C2065: 'EBX': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(22,13): error C2146: syntax error: missing ';' before identifier 'inc'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(22,13): error C2065: 'inc': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(22,17): error C2146: syntax error: missing ';' before identifier 'EDX'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(22,17): error C2065: 'EDX': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(23,13): error C2146: syntax error: missing ';' before identifier 'loop'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(23,13): error C2065: 'loop': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(23,18): error C2146: syntax error: missing ';' before identifier 'calc_factorial'
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(23,18): error C2065: 'calc_factorial': undeclared identifier
+C:\Users\maksi\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(24,5): error C2143: syntax error: missing ';' before '}'
